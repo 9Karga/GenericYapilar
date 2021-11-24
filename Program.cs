@@ -8,7 +8,8 @@ namespace GenericYapilar
         static void Main(string[] args)
         {
             List<string> citys = new List<string>();
-            citys.Add("İsatanbul");
+            citys.Add("İstanbul");
+            Console.WriteLine(citys.Count);
             
             
             // "MyList" ile yukarıdaki "List" in nasıl çalıştığının örneğini luşturduk.
