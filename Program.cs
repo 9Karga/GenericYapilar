@@ -17,6 +17,8 @@ namespace GenericYapilar
             MyList<string> citys2 = new MyList<string>();
             citys2.Add("Ankara");
             Console.WriteLine(citys2.Count);
+            
+            Console.ReadLine();
     
         }
 
