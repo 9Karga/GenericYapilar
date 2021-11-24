@@ -7,7 +7,7 @@ namespace GenericYapilar
     {
         static void Main(string[] args)
         {
-            List<String> citys = new List<string>();
+            List<string> citys = new List<string>();
             citys.Add("İsatanbul");
             
             
