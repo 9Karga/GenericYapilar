@@ -12,7 +12,7 @@ namespace GenericYapilar
             Console.WriteLine(citys.Count);
             
             
-            // "MyList" ile yukarıdaki "List" in nasıl çalıştığının örneğini luşturduk.
+            // "MyList" ile yukarıdaki "List" in nasıl çalıştığının örneğini oluşturduk.
 
             MyList<string> citys2 = new MyList<string>();
             citys2.Add("Ankara");
